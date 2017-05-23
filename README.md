@@ -1,2 +1,2 @@
 # literate-garbanzo
-test てすと
+試
